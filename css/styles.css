@@ -1,0 +1,17 @@
+#logo-png{
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+nav{
+    display: flex; 
+    align-items: flex-start;
+}
+.nav-link{
+    margin-top: 9px;
+    margin-left: 13rem;
+}
+.navbar-brand{
+    margin-top: 10px; 
+}
